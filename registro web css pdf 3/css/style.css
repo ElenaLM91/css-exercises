@@ -1,0 +1,52 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 70px;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.form-register {
+  width: 200px;
+  background-color: #15172b;
+  padding: 40px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 30px;
+  color: white;
+}
+.title {
+  font-size: 30px;
+  margin: auto;
+}
+.subtitle {
+  font-size: 13px;
+  margin: auto;
+  line-height: 25px;
+}
+.controls {
+  width: 110%;
+  padding: 10px;
+  background: #303245;
+  border-top-left-radius: 10px 10px;
+  border-bottom-left-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  border-top-right-radius: 10px 10px;
+  border: 1px solid #15172b;
+  line-height: 20px;
+  margin: 1px -20px;
+}
+.boton {
+  width: 120%;
+  background-color: #0088dd;
+  padding: 12px;
+  color: white;
+  border-radius: 8%;
+  font-size: 14px;
+  border: 1px;
+  border-top-left-radius: 10px 10px;
+  border-bottom-left-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  border-top-right-radius: 10px 10px;
+  margin: 1px -20px;
+}

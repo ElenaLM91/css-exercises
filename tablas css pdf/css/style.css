@@ -1,0 +1,43 @@
+body {
+  font-family: "Nunito", sans-serif;
+
+}
+table {
+  border-collapse: collapse;
+  margin: 10% auto;
+  border: solid;
+  border-color: white #eeee #eeee;
+  border-width: 0.01em;
+  width: 50em;
+  height: 12em;
+}
+.primero {
+  text-align: center;
+}
+.top {
+  background-color: black;
+  color: white;
+}
+td {
+  text-align: left;
+  padding: 0.5em 1em;
+}
+.color {
+  background-color: #eeee;
+}
+.top1 {
+  background-color: #31b267;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.top2 {
+  background-color: #ea6153;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+}
+.top3 {
+  background-color: #277ab0;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+}

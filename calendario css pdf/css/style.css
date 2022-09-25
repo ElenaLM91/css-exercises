@@ -1,0 +1,38 @@
+body {
+  background-color: #fc685c;
+}
+table {
+  margin: 20% auto;
+  background-color: white;
+  /* delete space between elements */
+  border-collapse: collapse;
+  box-shadow: 5px 5px 20px;
+  width: 20em;
+  height: 15em;
+}
+
+.catorce {
+  background-color: #fa794a;
+  color: white;
+  border-radius: 100%;
+
+  
+  
+}
+
+.up {
+  background-color: #404040;
+  box-shadow: 5px 5px 20px color:darkgray;
+  font-weight: 300;
+  color: white;
+  font-family: "Lato", sans-serif;
+
+
+
+}
+
+td {
+  padding: 1.3em 1.5em;
+  text-align: center;
+  
+}

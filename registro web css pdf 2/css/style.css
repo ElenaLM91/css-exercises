@@ -1,0 +1,54 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 70px;
+  box-sizing: border-box;
+}
+.form-register {
+  width: 300px;
+  background-color: white;
+  padding: 70px;
+  margin: auto;
+  border-radius: 5px;
+  color: black;
+  border: solid 1px white;
+  box-shadow: 0.5px 0.5px 6px gray;
+}
+.title {
+  font-size: 20px;
+  margin: auto;
+  padding: auto;
+}
+.enunciado {
+  margin: auto;
+}
+.stay {
+  font-size: 15px;
+}
+.controls {
+  width: 100%;
+  padding: 10px;
+  border-top-left-radius: 5px 5px;
+  border-bottom-left-radius: 5px 5px;
+  border-bottom-right-radius: 5px 5px;
+  border-top-right-radius: 5px 5px;
+  border: solid 1px lightgrey;
+}
+.boton {
+  width: 108%;
+  background-color: #5469d4;
+  color: white;
+  border: solid 1px white;
+  border-top-left-radius: 5px 5px;
+  border-bottom-left-radius: 5px 5px;
+  border-bottom-right-radius: 5px 5px;
+  border-top-right-radius: 5px 5px;
+  padding: 12px;
+}
+.last {
+  text-decoration: none;
+  margin: 35px;
+}
+.last2 {
+  text-decoration: none;
+  margin: 76px;
+}
